@@ -6,8 +6,8 @@
 <table align=center>
     <thead>
         <tr>
-            <th style="text-align:center;" >🍀 문예진</th>
             <th style="text-align:center;" >🍀 김민경</th>
+            <th style="text-align:center;" >🍀 문예진</th>
             <th style="text-align:center;" >🍀 이승찬</th>
             <th style="text-align:center;" >🍀 최한울</th>
             <th style="text-align:center;" >🍀 유진승</th>
