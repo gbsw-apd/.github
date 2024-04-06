@@ -21,5 +21,6 @@
 
 ## CICD Pipeline Architecture
 
+<img width="861" alt="CICD Pipeline" src="https://github.com/gbsw-apd/.github/assets/127307160/5bf2a259-c011-4738-b967-d16b83291677">
 
 ## etc..
