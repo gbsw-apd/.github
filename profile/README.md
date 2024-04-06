@@ -28,12 +28,6 @@
         <td><a href="https://github.com/chaos-0809">@chaos-0809</a></td>
         <td><a href="https://github.com/wlstmd">@wlstmd</a></td>
       </tr>
-          <td>김민경</td>  
-          <td>문예진</td>
-          <td>이승찬</td>
-          <td>최한울</td>
-          <td>유진승</td>
-      </tr>
     </tbody>
 </table>
 
