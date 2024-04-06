@@ -2,12 +2,36 @@
   <h2>의성에서의 구인구직 및 문화 홍보 사이트 - [의성라이프]</h2>
 </div>
 
-## 멤버 소개
-- 문예진 : 디자인 및 사이트의 UI, 프론트엔드를 담당합니다.
+## 팀원 소개
+<table align=center>
+    <thead>
+        <tr >
+            <th style="text-align:center;" >🍀 문예진</th>
+            <th style="text-align:center;" >🍀 김민경</th>
+            <th style="text-align:center;" >🍀 이승찬</th>
+            <th style="text-align:center;" >🍀 최한울</th>
+            <th style="text-align:center;" >🍀 유진승</th>
+        </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://github.com/chaos-0809">@chaos-0809</a></td>
+        <td><a href="https://github.com/wlstmd">@wlstmd</a></td>
+      </tr>
+          <td>최한울</td>
+          <td>유진승</td>
+        </tr>
+        <tr>
+            <td width="200">웹 사이트의 퍼블리싱 및 프론트엔드를 담당합니다.</td>
+            <td width="200">백엔드 서버 구축 및 인프라 설계를 담당합니다.</td>
+        </tr>
+    </tbody>
+</table>
+<!-- - 문예진 : 
 - 김민경 : 웹 사이트의 전반적인 디자인을 담당합니다.
 - 이승찬 : 웹 사이트의 서버 구축 및 API 구축을 담당합니다.
 - 최한울 : 웹 사이트의 퍼블리싱 및 프론트엔드를 담당합니다.
-- 유진승 : 백엔드 서버 구축 및 인프라 설계를 담당합니다.
+- 유진승 : 백엔드 서버 구축 및 인프라 설계를 담당합니다. -->
 
 
 ## 사용하는 기술
