@@ -5,7 +5,7 @@
 ## 팀원 소개
 <table align=center>
     <thead>
-        <tr >
+        <tr>
             <th style="text-align:center;" >🍀 문예진</th>
             <th style="text-align:center;" >🍀 김민경</th>
             <th style="text-align:center;" >🍀 이승찬</th>
@@ -15,23 +15,27 @@
     </thead>
     <tbody>
       <tr>
+        <td><a href="https://github.com/wlstmd">@wlstmd</a></td>
+        <td><a href="https://github.com/sakuj123">@sakuj123</a></td>
+        <td><a href="https://github.com/wlstmd">@wlstmd</a></td>
         <td><a href="https://github.com/chaos-0809">@chaos-0809</a></td>
         <td><a href="https://github.com/wlstmd">@wlstmd</a></td>
       </tr>
+          <td>김민경</td>  
+          <td>문예진</td>
+          <td>이승찬</td>
           <td>최한울</td>
           <td>유진승</td>
-        </tr>
-        <tr>
-            <td width="200">웹 사이트의 퍼블리싱 및 프론트엔드를 담당합니다.</td>
-            <td width="200">백엔드 서버 구축 및 인프라 설계를 담당합니다.</td>
-        </tr>
+      </tr>
+      <tr>
+          <td width="200">웹 사이트의 전반적인 디자인을 담당합니다.</td>
+          <td width="200">웹 사이트의 UI 및 프론트엔드를 담당합니다.</td>
+          <td width="200">웹 사이트의 서버 구축 및 API 구축을 담당합니다.</td>
+          <td width="200">웹 사이트의 퍼블리싱 및 프론트엔드를 담당합니다.</td>
+          <td width="200">백엔드 서버 구축 및 인프라 설계를 담당합니다.</td>
+      </tr>
     </tbody>
 </table>
-<!-- - 문예진 : 
-- 김민경 : 웹 사이트의 전반적인 디자인을 담당합니다.
-- 이승찬 : 웹 사이트의 서버 구축 및 API 구축을 담당합니다.
-- 최한울 : 웹 사이트의 퍼블리싱 및 프론트엔드를 담당합니다.
-- 유진승 : 백엔드 서버 구축 및 인프라 설계를 담당합니다. -->
 
 
 ## 사용하는 기술
