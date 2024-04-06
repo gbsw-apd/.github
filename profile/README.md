@@ -40,12 +40,12 @@
 
 ## 사용하는 기술
 
-| 분야 | 담당자 | 기술 | 간단소개 |
+| 분야 | 담당자 | 기술 | 간단소개 | 소속 |
 | ------------- | ---------------------- | -------------------------- | ---------------- |
-| Design  | 김민경 | <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>| 웹 사이트의 디자인을 담당합니다. |
-| Frontend | 문예진, 최한울 | <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>| 웹 사이트의 UI 및 프론트엔드를 담당합니다. |
-| Backend | 유진승, 이승찬 | <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>| 웹 사이트의 서버 및 API 구축을 담당합니다. |
-| Infra | 유진승 | <img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=AmazonAWS&logoColor=white"/>| 웹 사이트의 인프라 구축을 담당합니다. |
+| Design  | 김민경 | <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>| 웹 사이트의 디자인을 담당합니다. | 경북소프트웨어고등학교 |
+| Frontend | 문예진, 최한울 | <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>| 웹 사이트의 UI 및 프론트엔드를 담당합니다. | 경북소프트웨어고등학교 |
+| Backend | 유진승, 이승찬 | <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>| 웹 사이트의 서버 및 API 구축을 담당합니다. | 경북소프트웨어고등학교 |
+| Infra | 유진승 | <img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=AmazonAWS&logoColor=white"/>| 웹 사이트의 인프라 구축을 담당합니다. | 경북소프트웨어고등학교 |
 
 ## AWS CICD Pipeline Architecture
 
