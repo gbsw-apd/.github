@@ -22,11 +22,11 @@
         <td><img width="200" src="https://avatars.githubusercontent.com/u/127307160?v=4"/></td>
       </tr>
       <tr>
-        <td><a href="https://github.com/yug1005">@yug1005</a></td>
-        <td><a href="https://github.com/sakuj123">@sakuj123</a></td>
-        <td><a href="https://github.com/dltmdcks57">@dltmdcks57</a></td>
-        <td><a href="https://github.com/chaos-0809">@chaos-0809</a></td>
-        <td><a href="https://github.com/wlstmd">@wlstmd</a></td>
+        <td style="text-align:center;" ><a href="https://github.com/yug1005">@yug1005</a></td>
+        <td style="text-align:center;" ><a href="https://github.com/sakuj123">@sakuj123</a></td>
+        <td style="text-align:center;" ><a href="https://github.com/dltmdcks57">@dltmdcks57</a></td>
+        <td style="text-align:center;" ><a href="https://github.com/chaos-0809">@chaos-0809</a></td>
+        <td style="text-align:center;" ><a href="https://github.com/wlstmd">@wlstmd</a></td>
       </tr>
     </tbody>
 </table>
