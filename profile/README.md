@@ -29,9 +29,9 @@
 
 | 분야 | 담당자 | 기술 | 간단소개 | 소속 | 학과 |
 | ------------- | ---------------------- | -------------------------- | ----------------------- | ----------------------------  | -------------- | 
-| Design  | 김민경, 문예진 | <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>| 애플리케이션의 디자인을 담당합니다. | 경북소프트웨어고등학교 | 인공지능소프트웨어과, 소프트웨어개발과 |
+| Design  | 김민경, 문예진 | <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>| 애플리케이션의 디자인을 담당합니다. | 경북소프트웨어고등학교 | 소프트웨어개발과 |
 | Frontend | 유진승, 최한울 | <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=white"/>| 애플리케이션의 UI 및 프론트엔드를 담당합니다. | 경북소프트웨어고등학교 | 소프트웨어개발과 |
-| Backend | 문예진, 이승찬, 김민경, 유진승 | <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>| 애플리케이션의 서버 및 API 구축을 담당합니다. | 경북소프트웨어고등학교 | 소프트웨어개발과 |
+| Backend | 문예진, 이승찬, 김민경, 유진승 | <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>| 애플리케이션의 서버 및 API 구축을 담당합니다. | 경북소프트웨어고등학교 | 소프트웨어개발과, 인공지능소프트웨어과 |
 | Infra | 유진승 | <img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=AmazonAWS&logoColor=white"/>| 애플리케이션 서버의 인프라 구축을 담당합니다. | 경북소프트웨어고등학교 | 소프트웨어개발과 |
 
 ## AWS CICD Pipeline Architecture
