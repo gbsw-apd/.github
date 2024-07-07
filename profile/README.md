@@ -44,17 +44,11 @@ https://drive.google.com/file/d/1T4svPJke26eQIMiI8O91wtypGv_sE63T/view?usp=shari
 ## 구현 화면
 <p align="center">
   <img src="https://github.com/gbsw-apd/.github/assets/127307160/5914c390-a4d6-4ee8-8346-ccb3e1bc7bc5" alt="Simulator Screenshot" style="width: 30%;"/>
-  &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="https://github.com/gbsw-apd/.github/assets/127307160/e2bc296e-3b53-4aea-87f1-0b30f29aa666" alt="Simulator Screenshot" style="width: 30%;"/>
-  &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="https://github.com/gbsw-apd/.github/assets/127307160/605ab3d6-74a0-4e8a-b6cd-54f49307dc57" alt="Simulator Screenshot" style="width: 30%;"/>
-  &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="https://github.com/gbsw-apd/.github/assets/127307160/83f520d0-d603-40d0-8662-b05ddaba14a2" alt="Simulator Screenshot" style="width: 30%;"/>
-  &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="https://github.com/gbsw-apd/.github/assets/127307160/9c70e57e-9247-4658-9b23-f9c18640b9db" alt="Simulator Screenshot" style="width: 30%;"/>
-  &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="https://github.com/gbsw-apd/.github/assets/127307160/dee42bd9-1256-46ef-876e-0b40ba284566" alt="Simulator Screenshot" style="width: 30%;"/>
-  &nbsp; &nbsp; &nbsp; &nbsp;
 </p>
 
 
