@@ -38,4 +38,7 @@
 
 <img width="861" alt="CICD Pipeline" src="https://github.com/gbsw-apd/.github/assets/127307160/5bf2a259-c011-4738-b967-d16b83291677">
 
+## APK 파일 링크
+https://drive.google.com/file/d/1T4svPJke26eQIMiI8O91wtypGv_sE63T/view?usp=sharing
+
 ## etc..
