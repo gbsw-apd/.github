@@ -35,8 +35,8 @@
 | Infra | 유진승 | <img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=AmazonAWS&logoColor=white"/>| 애플리케이션 서버의 인프라 구축을 담당합니다. | 경북소프트웨어고등학교 | 소프트웨어개발과 |
 
 ## AWS CICD Pipeline Architecture
-
-<img width="861" alt="CICD Pipeline" src="https://github.com/gbsw-apd/.github/assets/127307160/5bf2a259-c011-4738-b967-d16b83291677">
+<img width="771" alt="아키텍처" src="https://github.com/gbsw-apd/.github/assets/127307160/0e036a61-86c7-4533-a7b7-665604208ff3"> 
+<!-- <img width="861" alt="CICD Pipeline" src="https://github.com/gbsw-apd/.github/assets/127307160/5bf2a259-c011-4738-b967-d16b83291677"> -->
 
 ## APK 파일 링크
 https://drive.google.com/file/d/1T4svPJke26eQIMiI8O91wtypGv_sE63T/view?usp=sharing
